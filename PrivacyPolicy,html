@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy - Social Assist</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: auto;
+      padding: 40px 20px;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for Social Assist</h1>
+  <p><strong>Last Updated:</strong> April 8, 2025</p>
+
+  <h2>Introduction</h2>
+  <p>
+    Welcome to Social Assist (“we”, “our”, or “us”). This Privacy Policy explains how we collect,
+    use, and safeguard any information obtained through our integration with social media platforms
+    as part of our Social Assist application for internal testing purposes. By using Social Assist,
+    you agree to the data practices described below.
+  </p>
+
+  <h2>Information We Collect</h2>
+  <p>
+    For the purposes of Social Assist, we primarily access social media data such as:
+  </p>
+  <ul>
+    <li>Public posts, comments, and direct messages from platforms (e.g., Twitter, Instagram, Facebook, YouTube)</li>
+    <li>Metadata such as user identifiers, timestamps, and text content</li>
+  </ul>
+  <p>
+    Social Assist is currently in a testing phase. We do not permanently store full message content
+    or any personal data unless required for resolving customer support cases.
+  </p>
+
+  <h2>How We Use Your Information</h2>
+  <p>
+    We use collected data to:
+  </p>
+  <ul>
+    <li>Perform real-time social listening and sentiment analysis</li>
+    <li>Classify social messages based on sentiment, intent, and topics</li>
+    <li>Trigger automated actions (e.g., creating support cases or sending alerts)</li>
+    <li>Provide insights to improve customer support and engagement</li>
+  </ul>
+
+  <h2>Data Sharing and Third Parties</h2>
+  <p>
+    We do not sell or share your data with third parties, except when required to operate the platform
+    or comply with legal obligations.
+  </p>
+
+  <h2>Data Storage and Retention</h2>
+  <p>
+    Processed data may be temporarily stored for deduplication and operation. No sensitive or personal
+    data is stored permanently beyond what is necessary for immediate operations or debugging.
+  </p>
+
+  <h2>Security Measures</h2>
+  <p>
+    We use HTTPS for all API communication, restrict data access to authorized users,
+    and regularly review our security practices.
+  </p>
+
+  <h2>Your Rights</h2>
+  <p>
+    If you have questions or concerns about this Privacy Policy or our data practices, contact us at:
+  </p>
+  <p>
+    📧 <strong>Email:</strong> <a href="mailto:yashrohansingh@gmail.com">yashrohansingh@gmail.com</a>
+  </p>
+
+  <h2>Changes to This Policy</h2>
+  <p>
+    We may update this policy from time to time. Changes will be posted here with a new “Last Updated” date.
+  </p>
+</body>
+</html>
